@@ -1,0 +1,97 @@
+text,label
+"The patient presents with acute chest pain radiating to the left arm. ECG shows ST elevation in leads II, III, and aVF. Troponin levels are elevated at 2.5 ng/mL. Blood pressure is 90/60 mmHg.",1
+"Routine follow-up visit. Patient reports feeling well with no new complaints. Vitals within normal limits. Blood work unremarkable. Continue current medications.",0
+"Patient admitted with severe shortness of breath and bilateral crackles on auscultation. Chest X-ray reveals bilateral pulmonary infiltrates. SpO2 88% on room air. Started on supplemental oxygen.",1
+"Annual physical examination. Patient is a 45-year-old male in good health. BMI 24.5. Cholesterol and glucose levels normal. No family history of cardiac disease.",0
+"Emergency presentation with sudden onset of left-sided weakness and slurred speech. CT head shows no hemorrhage. NIHSS score 8. Within thrombolysis window.",1
+"Patient presents for medication refill. Hypertension well controlled on current regimen. Home BP readings average 128/78. No side effects reported.",0
+"Severe abdominal pain with guarding and rebound tenderness in right lower quadrant. WBC 15,000. CT abdomen shows inflamed appendix with possible perforation.",1
+"Wellness visit. Patient exercises regularly, follows Mediterranean diet. All screening tests up to date. No concerns raised during visit.",0
+"Patient brought in by ambulance after witnessed seizure lasting 5 minutes. Post-ictal confusion. No prior seizure history. Glucose normal. Head CT pending.",1
+"Follow-up for type 2 diabetes. HbA1c improved from 7.8% to 6.9%. Patient compliant with metformin and lifestyle modifications. Continue current plan.",0
+"Acute presentation with high fever 39.8°C, productive cough with purulent sputum, and right-sided pleuritic chest pain. CXR shows right lower lobe consolidation.",1
+"Routine dermatology check. No suspicious lesions identified. Patient counseled on sun protection. Return in 12 months.",0
+"Patient presents with sudden severe headache described as worst of life. Neck stiffness present. CT head negative. Lumbar puncture shows xanthochromia.",1
+"Well-child visit for 8-year-old. Growth and development appropriate for age. Immunizations up to date. Vision and hearing screening normal.",0
+"Elderly patient found unresponsive at home. GCS 7. Right pupil dilated and fixed. CT shows large right-sided subdural hematoma with midline shift.",1
+"Patient reports occasional mild knee pain after prolonged walking. Physical exam unremarkable. Range of motion full. Advised weight management and quad strengthening.",0
+"Chest pain with new onset atrial fibrillation. Heart rate 150 bpm. BP 100/70. Troponin mildly elevated. Echo shows moderate LV dysfunction EF 35%.",1
+"Routine eye examination. Visual acuity 20/20 bilateral. Intraocular pressures normal. No diabetic retinopathy. Return in one year.",0
+"Acute confusion in nursing home resident. New-onset fever, dysuria, and suprapubic tenderness. Urine dipstick positive for nitrites and leukocytes. WBC 18,000.",1
+"Sports physical for 16-year-old athlete. No cardiac symptoms. Family history negative for sudden cardiac death. Physical exam normal. Cleared for sport participation.",0
+"Patient with known cirrhosis presents with hematemesis and melena. HR 120, BP 85/50. Hemoglobin 6.2 g/dL. Large-bore IV access established. Blood products ordered.",1
+"Prenatal visit at 28 weeks. Fetal growth appropriate. Glucose tolerance test normal. Blood pressure 110/70. No proteinuria. Patient feeling well.",0
+"Severe allergic reaction with facial angioedema, urticaria, and stridor after bee sting. Epinephrine administered. Monitoring for biphasic reaction.",1
+"Routine colonoscopy screening. No polyps identified. Cecum reached and landmarks identified. Next screening in 10 years.",0
+"Acute myocardial infarction STEMI anterior wall. Emergent cardiac catheterization shows complete LAD occlusion. PCI with stent deployment performed.",1
+"Patient seen for annual flu vaccination. No contraindications identified. Vaccine administered. Patient tolerated well. No immediate adverse reactions.",0
+"Diabetic ketoacidosis with blood glucose 580 mg/dL, pH 7.15, bicarbonate 8. Anion gap 28. Insulin drip and aggressive IV fluids initiated.",1
+"Routine blood donation screening. Hemoglobin 14.2 g/dL. Vital signs normal. No recent illness or travel. Eligible for donation.",0
+"Status epilepticus not responding to initial benzodiazepine therapy. Second-line antiepileptic loading initiated. Intubation may be required if seizures continue.",1
+"Patient presents for routine mammogram. No palpable masses. Family history of breast cancer in maternal aunt at age 65. Screening performed.",0
+"Massive pulmonary embolism with right heart strain on CT. Troponin elevated. Hemodynamically unstable. tPA thrombolysis initiated.",1
+"Dental cleaning and examination. No cavities detected. Mild gingivitis noted. Flossing instruction provided. Return in 6 months.",0
+"Necrotizing fasciitis of right lower extremity. Crepitus on palpation. WBC 22,000. Lactate 6.5. Emergent surgical debridement required.",1
+"Routine physical therapy follow-up for chronic low back pain. Patient reports 50% improvement with exercises. Continue home program.",0
+"Ruptured ectopic pregnancy with hemoperitoneum. Patient is tachycardic and hypotensive. Emergency laparoscopy scheduled. Two units pRBCs transfusing.",1
+"Well-woman exam. Pap smear performed. Breast exam normal. Patient counseled on contraception options. Follow up for pap results.",0
+"Decompensated heart failure NYHA class IV. BNP 3500. Severe peripheral edema. Requiring IV diuretics and inotropic support in ICU.",1
+"Routine vaccination visit for 2-month-old infant. Growth parameters at 50th percentile. Developmental milestones appropriate. Vaccines administered per schedule.",0
+"Acute pancreatitis with lipase 1500 U/L. Severe epigastric pain radiating to back. CT shows peripancreatic inflammation. NPO status and IV fluids.",1
+"Insurance physical examination. 35-year-old female in excellent health. All vitals normal. Labs within reference ranges. Cleared for coverage.",0
+"Septic shock from urosepsis. MAP 55 despite 3L fluid resuscitation. Norepinephrine started. Blood and urine cultures obtained. Broad spectrum antibiotics given.",1
+"Follow-up visit for seasonal allergies. Symptoms well controlled on cetirizine. No need for medication change. Return PRN.",0
+"Acute meningitis presentation. Fever 40.1°C, photophobia, nuchal rigidity, petechial rash. CSF shows 2000 WBCs, predominantly neutrophils. IV ceftriaxone stat.",1
+"Routine optometry visit. Mild presbyopia. New reading glasses prescribed. No pathology identified on dilated exam.",0
+"Massive upper GI hemorrhage. Patient vomiting large volumes of fresh blood. HR 140 BP 70/40. Hemoglobin 5.1. Massive transfusion protocol activated.",1
+"Annual wellness physical. 50-year-old male. PSA 1.2. Lipid panel normal. Blood pressure 124/76. Healthy lifestyle. No interventions needed.",0
+"Tension pneumothorax. Absent breath sounds on left. Tracheal deviation to right. Hypotensive. Needle decompression performed followed by chest tube insertion.",1
+"Patient seen for travel medicine consultation. Planning trip to Southeast Asia. Appropriate vaccinations and malaria prophylaxis prescribed.",0
+"Unstable angina with dynamic ST changes. Positive troponin trend. TIMI score 5. Heparin drip initiated. Urgent cardiology consult for catheterization.",1
+"Routine hearing test for occupational health screening. Audiometry within normal limits bilaterally. No workplace hearing protection changes needed.",0
+"Acute aortic dissection Type A. Severe tearing chest pain radiating to back. CT angiogram confirms dissection from aortic root. Emergent cardiac surgery consulted.",1
+"Well-baby check at 6 months. Weight gain appropriate. Sitting independently. Babbling. No parental concerns. Solid foods introduction discussed.",0
+"Hypertensive emergency with BP 240/140. New-onset confusion and bilateral papilledema. Serum creatinine elevated at 3.2. IV nicardipine drip initiated.",1
+"Annual gynecologic examination. Normal findings. HPV co-testing performed. Contraception counseled. No abnormalities noted on bimanual exam.",0
+"Complete heart block with ventricular rate 32 bpm. Patient symptomatic with near-syncope. Transcutaneous pacing initiated. Cardiology for emergent pacemaker.",1
+"Routine podiatry visit for diabetic foot care. No ulcers or deformities. Sensation intact bilaterally. Nails trimmed. Appropriate footwear confirmed.",0
+"Fulminant hepatic failure with INR 4.8 ammonia 180 and grade III hepatic encephalopathy. Transplant evaluation initiated urgently.",1
+"Pre-employment physical. 28-year-old in good health. Drug screening negative. Hearing and vision normal. Cleared for employment.",0
+"Acute limb ischemia right lower extremity. 6Ps present: pain, pallor, pulselessness, paresthesia, paralysis, poikilothermia. Vascular surgery emergent consult.",1
+"Routine pediatric check-up for 4-year-old. Developmental screening normal. BMI at 55th percentile. Vision screening passed. School readiness discussed.",0
+"Cardiogenic shock post-MI. EF 15% on bedside echo. Requiring vasopressors and IABP support. Multidisciplinary team conference for management.",1
+"Patient returns for suture removal 10 days post minor laceration repair. Wound well healed without signs of infection. Sutures removed.",0
+"Anaphylactic shock after IV contrast administration. Airway edema respiratory distress BP 60/30. Second dose epinephrine given. Crash cart at bedside.",1
+"Nutritional counseling visit. Patient seeking guidance on plant-based diet. BMI 22. Labs normal. Discussed B12 supplementation and protein sources.",0
+"Acute stroke with large vessel occlusion MCA territory. ASPECTS 7. Within thrombectomy window. Neurointerventional team activated for mechanical thrombectomy.",1
+"Routine lab review visit. Thyroid function normal. Complete blood count within limits. Comprehensive metabolic panel unremarkable. Continue current management.",0
+"Traumatic brain injury GCS 5 after motor vehicle collision. Bilateral fixed dilated pupils. Large epidural hematoma on CT. Neurosurgery emergent evacuation.",1
+"Annual diabetic eye screening. No background retinopathy. Visual acuity stable. Pressures normal. Continue glucose optimization. Return annually.",0
+"Massive saddle pulmonary embolism. RV failure on echo. Cardiac arrest in ED. ROSC after 8 minutes CPR. tPA administered during resuscitation.",1
+"Healthy adolescent sport physical. No murmur no marfan features. Family history negative for sudden death. ECG normal. Full clearance given.",0
+"Acute mesenteric ischemia. Severe abdominal pain out of proportion to exam. Lactate 8.2 metabolic acidosis. CT angio shows SMA occlusion. Emergent OR.",1
+"Routine dental X-rays and examination. No new caries. Existing restorations intact. Periodontal measurements stable. Continue regular hygiene visits.",0
+"Ruptured abdominal aortic aneurysm. Patient complaining of severe back pain syncope episode. BP 70/50 HR 130. CT confirms 8cm AAA with retroperitoneal hemorrhage.",1
+"Weight management consultation. BMI 27 patient motivated to lose weight. Discussed caloric deficit exercise plan meal planning. Follow up in one month.",0
+"Acute respiratory distress syndrome ARDS. P/F ratio 85. Bilateral diffuse infiltrates. Ventilator settings optimized for lung-protective strategy. Prone positioning initiated.",1
+"Patient presents for contact lens fitting. Refraction stable from last visit. Trial lenses dispensed. Return in one week for follow-up assessment.",0
+"Thyroid storm with fever 40.5C HR 170 altered mental status. TSH undetectable free T4 markedly elevated. PTU methimazole beta-blockade and hydrocortisone initiated.",1
+"Annual comprehensive physical 60-year-old female. Bone density normal. Mammogram scheduled. Colonoscopy current. All labs within normal limits.",0
+"Acute compartment syndrome right forearm after fracture. Severe pain with passive extension. Compartment pressures 45 mmHg. Emergent fasciotomy required.",1
+"Routine childhood immunization visit. 12-month-old receiving MMR and varicella vaccines. Growth normal. No contraindications. Vaccines administered.",0
+"Eclampsia at 34 weeks gestation. Tonic-clonic seizure witnessed. BP 190/120. Magnesium sulfate loading dose given. Emergent cesarean section planned.",1
+"Annual health screening for 40-year-old executive. Stress test normal. Echocardiogram normal. Hormonal panel normal. Lifestyle counseling provided.",0
+"Acute epidural hematoma with uncal herniation signs. Fixed dilated right pupil. GCS declining from 13 to 7 over 30 minutes. Emergent craniotomy indicated.",1
+"Pre-surgical clearance for elective knee arthroscopy. Cardiac risk assessment low. Labs normal. ECG normal sinus rhythm. Cleared for surgery.",0
+"Toxic megacolon in ulcerative colitis. Abdominal distension colon diameter 8cm on X-ray. Fever tachycardia. Failed medical management. Surgical colectomy planned.",1
+"Well-woman annual exam 30-year-old. Breast exam normal. Pap smear collected. Contraception reviewed. Prenatal vitamins discussed for future planning.",0
+"Cardiac tamponade. Beck's triad present: hypotension, JVD, muffled heart sounds. Pulsus paradoxus 20 mmHg. Emergent pericardiocentesis performed with echo guidance.",1
+"Routine blood pressure check. Home readings consistently 120/75. Weight stable. Current antihypertensive regimen effective. Continue same plan.",0
+"Acute adrenal crisis. Hypotension refractory to fluids. Hyponatremia hyperkalemia. Known Addison's disease. IV hydrocortisone 100mg stat and q8h.",1
+"Six-month dental cleaning. No new issues. Mild tartar buildup removed. Oral hygiene satisfactory. Next appointment in 6 months.",0
+"Fat embolism syndrome post long bone fracture. Petechial rash, acute hypoxia, altered mental status. Supportive care with mechanical ventilation in ICU.",1
+"Routine vision screening at school health fair. 20/20 bilateral. Color vision normal. No referral needed. Certificate of normal vision provided.",0
+"Malignant hyperthermia during general anesthesia. Temperature rising rapidly to 41C. Muscle rigidity. Dantrolene administered immediately. Surgery aborted. ICU transfer.",1
+"Follow-up appointment for mild eczema. Condition improved with topical emollient. Continue moisturizing routine. Return only if worsening.",0
+"Acute liver failure from acetaminophen overdose. INR 6.2, ammonia 250, grade IV encephalopathy. NAC infusion running. Urgent transplant listing evaluation.",1
+"Routine physical therapy discharge. Patient met all functional goals. Independent with home exercise program. No further PT sessions needed.",0

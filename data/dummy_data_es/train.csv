@@ -1,0 +1,97 @@
+text,label
+"El paciente presenta dolor torácico agudo irradiado al brazo izquierdo. El ECG muestra elevación del ST en las derivaciones II, III y aVF. La troponina está elevada en 2,5 ng/mL. La presión arterial es de 90/60 mmHg.",1
+"Visita de seguimiento rutinaria. El paciente refiere encontrarse bien y sin nuevas molestias. Los signos vitales están dentro de la normalidad. La analítica no muestra hallazgos relevantes. Continuar con la medicación actual.",0
+"Paciente ingresado por disnea intensa y crepitantes bilaterales a la auscultación. La radiografía de tórax revela infiltrados pulmonares bilaterales. Saturación de oxígeno 88% en aire ambiente. Se inicia oxígeno suplementario.",1
+"Reconocimiento físico anual. Varón de 45 años en buen estado general. IMC 24,5. Colesterol y glucosa dentro de rango. Sin antecedentes familiares de cardiopatía.",0
+"Consulta urgente por inicio brusco de debilidad en hemicuerpo izquierdo y habla farfullante. La TC craneal no muestra hemorragia. NIHSS 8. Dentro de ventana para trombólisis.",1
+"El paciente acude para renovar la medicación. La hipertensión está bien controlada con el tratamiento actual. Las tomas domiciliarias de PA promedian 128/78. No refiere efectos adversos.",0
+"Dolor abdominal intenso con defensa y rebote en fosa ilíaca derecha. Leucocitos 15.000. La TC abdominal muestra apéndice inflamado con posible perforación.",1
+"Visita preventiva. El paciente realiza ejercicio con regularidad y sigue dieta mediterránea. Todas las pruebas de cribado están al día. No se identifican problemas en la consulta.",0
+"Paciente trasladado en ambulancia tras crisis convulsiva presenciada de 5 minutos de duración. Confusión posictal. Sin antecedentes de convulsiones. Glucemia normal. TC craneal pendiente.",1
+"Seguimiento de diabetes mellitus tipo 2. La HbA1c mejoró de 7,8% a 6,9%. El paciente cumple con metformina y cambios en el estilo de vida. Mantener el plan actual.",0
+"Cuadro agudo con fiebre de 39,8°C, tos productiva con esputo purulento y dolor pleurítico derecho. La radiografía de tórax muestra consolidación en lóbulo inferior derecho.",1
+"Control dermatológico rutinario. No se identifican lesiones sospechosas. Se aconseja fotoprotección. Revisar de nuevo en 12 meses.",0
+"El paciente presenta cefalea súbita intensa descrita como la peor de su vida. Rigidez de nuca presente. La TC craneal es negativa. La punción lumbar muestra xantocromía.",1
+"Revisión de niño sano de 8 años. El crecimiento y el desarrollo son adecuados para la edad. Vacunación al día. Cribado visual y auditivo normales.",0
+"Paciente anciano encontrado inconsciente en su domicilio. Glasgow 7. Pupila derecha fija y dilatada. La TC muestra gran hematoma subdural derecho con desplazamiento de la línea media.",1
+"El paciente refiere dolor leve ocasional de rodilla tras caminar periodos prolongados. La exploración física es normal. Rango de movilidad completo. Se aconseja control ponderal y fortalecimiento de cuádriceps.",0
+"Dolor torácico con fibrilación auricular de nueva aparición. Frecuencia cardíaca 150 lpm. PA 100/70. Troponina discretamente elevada. Ecocardiograma con disfunción ventricular izquierda moderada y FE 35%.",1
+"Revisión oftalmológica rutinaria. Agudeza visual 20/20 bilateral. Presiones intraoculares normales. Sin retinopatía diabética. Revisión en un año.",0
+"Confusión aguda en residente de centro sociosanitario. Fiebre de nueva aparición, disuria y dolor suprapúbico. La tira de orina es positiva para nitritos y leucocitos. Leucocitos 18.000.",1
+"Reconocimiento deportivo para atleta de 16 años. Sin síntomas cardiacos. Antecedentes familiares negativos para muerte súbita. Exploración normal. Apto para la práctica deportiva.",0
+"Paciente con cirrosis conocida que presenta hematemesis y melena. FC 120, PA 85/50. Hemoglobina 6,2 g/dL. Se coloca acceso venoso periférico de gran calibre. Se solicitan hemoderivados.",1
+"Visita prenatal a las 28 semanas. El crecimiento fetal es adecuado. Test de tolerancia a la glucosa normal. Presión arterial 110/70. Sin proteinuria. La paciente se encuentra bien.",0
+"Reacción alérgica grave con angioedema facial, urticaria y estridor tras picadura de abeja. Se administra adrenalina. Se mantiene en observación por posible reacción bifásica.",1
+"Colonoscopia de cribado rutinaria. No se identifican pólipos. Se alcanza el ciego y se reconocen los puntos anatómicos. Próximo cribado en 10 años.",0
+"Infarto agudo de miocardio con elevación del ST en pared anterior. El cateterismo urgente muestra oclusión completa de la DA. Se realiza angioplastia con implante de stent.",1
+"Paciente atendido para vacunación anual frente a la gripe. No se identifican contraindicaciones. Se administra la vacuna y la tolera bien. Sin reacciones adversas inmediatas.",0
+"Cetoacidosis diabética con glucemia de 580 mg/dL, pH 7,15 y bicarbonato 8. Gap aniónico 28. Se inicia perfusión de insulina e hidratación intravenosa intensiva.",1
+"Cribado rutinario para donación de sangre. Hemoglobina 14,2 g/dL. Signos vitales normales. Sin enfermedad reciente ni viajes. Apto para donar.",0
+"Estatus epiléptico sin respuesta a la benzodiacepina inicial. Se inicia carga con antiepiléptico de segunda línea. Puede requerir intubación si persisten las crisis.",1
+"La paciente acude para mamografía rutinaria. No se palpan masas. Antecedente familiar de cáncer de mama en tía materna a los 65 años. Se realiza el cribado.",0
+"Embolia pulmonar masiva con sobrecarga de ventrículo derecho en la TC. Troponina elevada. Inestabilidad hemodinámica. Se inicia trombólisis con tPA.",1
+"Limpieza y revisión dental. No se detectan caries. Gingivitis leve. Se indican medidas de higiene con hilo dental. Nueva revisión en 6 meses.",0
+"Fascitis necrosante en extremidad inferior derecha. Crepitación a la palpación. Leucocitos 22.000. Lactato 6,5. Requiere desbridamiento quirúrgico urgente.",1
+"Seguimiento rutinario de fisioterapia por lumbalgia crónica. El paciente refiere mejoría del 50% con los ejercicios. Continuar con el programa domiciliario.",0
+"Embarazo ectópico roto con hemoperitoneo. La paciente está taquicárdica e hipotensa. Se programa laparoscopia urgente. Se transfunden dos concentrados de hematíes.",1
+"Revisión ginecológica de rutina. Se realiza citología cervical. La exploración mamaria es normal. Se ofrece asesoramiento anticonceptivo. Seguimiento para resultados de la citología.",0
+"Insuficiencia cardiaca descompensada clase funcional NYHA IV. BNP 3500. Edema periférico severo. Precisa diuréticos IV y soporte inotrópico en UCI.",1
+"Visita vacunal rutinaria de lactante de 2 meses. Parámetros de crecimiento en percentil 50. Hitos del desarrollo adecuados. Se administran las vacunas según calendario.",0
+"Pancreatitis aguda con lipasa de 1500 U/L. Dolor epigástrico intenso irradiado a espalda. La TC muestra inflamación peripancreática. Dieta absoluta e hidratación IV.",1
+"Reconocimiento médico para seguro. Mujer de 35 años en excelente estado de salud. Signos vitales normales. Analítica dentro de rangos de referencia. Apta para cobertura.",0
+"Shock séptico secundario a urosepsis. PAM 55 pese a reanimación con 3 litros de fluidos. Se inicia norepinefrina. Se toman hemocultivos y urocultivo. Se administran antibióticos de amplio espectro.",1
+"Seguimiento por alergia estacional. Los síntomas están bien controlados con cetirizina. No precisa cambios de tratamiento. Revisar según necesidad.",0
+"Cuadro compatible con meningitis aguda. Fiebre 40,1°C, fotofobia, rigidez de nuca y exantema petequial. El LCR muestra 2000 leucocitos con predominio neutrófilo. Ceftriaxona IV inmediata.",1
+"Visita rutinaria de optometría. Presbicia leve. Se prescriben gafas de lectura. En el fondo de ojo no se identifican hallazgos patológicos.",0
+"Hemorragia digestiva alta masiva. El paciente vomita grandes cantidades de sangre fresca. FC 140, PA 70/40. Hemoglobina 5,1. Se activa protocolo de transfusión masiva.",1
+"Chequeo anual de bienestar. Varón de 50 años. PSA 1,2. Perfil lipídico normal. Presión arterial 124/76. Estilo de vida saludable. No precisa intervenciones.",0
+"Neumotórax a tensión. Ausencia de murmullo vesicular en hemitórax izquierdo. Desviación traqueal a la derecha. Hipotensión. Se realiza descompresión con aguja seguida de colocación de tubo torácico.",1
+"Consulta de medicina del viajero. El paciente planea viajar al Sudeste Asiático. Se indican las vacunas pertinentes y profilaxis antipalúdica.",0
+"Angina inestable con cambios dinámicos del ST. Troponina en ascenso. TIMI 5. Se inicia perfusión de heparina y se solicita valoración urgente por cardiología para cateterismo.",1
+"Reconocimiento auditivo rutinario para salud laboral. Audiometría dentro de la normalidad en ambos oídos. No se requieren cambios en la protección auditiva en el trabajo.",0
+"Disección aórtica aguda tipo A. Dolor torácico desgarrador irradiado a la espalda. La angio-TC confirma disección desde la raíz aórtica. Se consulta cirugía cardiaca urgente.",1
+"Revisión del lactante sano a los 6 meses. Ganancia ponderal adecuada. Se mantiene sentado sin ayuda y balbucea. Sin preocupaciones familiares. Se comenta la introducción de alimentos sólidos.",0
+"Emergencia hipertensiva con PA 240/140. Confusión de nueva aparición y papiledema bilateral. Creatinina sérica 3,2. Se inicia perfusión de nicardipino intravenoso.",1
+"Revisión ginecológica anual. Hallazgos normales. Se realiza co-test de VPH. Se ofrece asesoramiento anticonceptivo. Sin anomalías en la exploración bimanual.",0
+"Bloqueo auriculoventricular completo con frecuencia ventricular de 32 lpm. El paciente presenta presíncope. Se inicia estimulación transcutánea y se avisa a cardiología para marcapasos urgente.",1
+"Visita rutinaria de podología para cuidado del pie diabético. Sin úlceras ni deformidades. Sensibilidad conservada bilateralmente. Se cortan las uñas. Calzado adecuado confirmado.",0
+"Insuficiencia hepática fulminante con INR 4,8, amonio 180 y encefalopatía hepática grado III. Se inicia evaluación urgente para trasplante.",1
+"Reconocimiento prelaboral. Persona de 28 años en buen estado de salud. Cribado toxicológico negativo. Audición y visión normales. Apta para el empleo.",0
+"Isquemia aguda de miembro inferior derecho. Presenta las 6P: dolor, palidez, ausencia de pulso, parestesias, parálisis y poiquilotermia. Valoración urgente por cirugía vascular.",1
+"Revisión pediátrica rutinaria de niño de 4 años. Cribado del desarrollo normal. IMC en percentil 55. Cribado visual superado. Se comenta preparación escolar.",0
+"Shock cardiogénico tras infarto agudo de miocardio. FE 15% en ecocardiografía a pie de cama. Precisa vasopresores y balón intraaórtico. Se convoca comité multidisciplinar para manejo.",1
+"El paciente vuelve para retirada de suturas 10 días después de una reparación de laceración menor. La herida está bien cicatrizada y sin signos de infección. Se retiran las suturas.",0
+"Shock anafiláctico tras administración de contraste IV. Edema de vía aérea, dificultad respiratoria y PA 60/30. Se administra una segunda dosis de adrenalina. Carro de parada junto a la cama.",1
+"Consulta de consejo nutricional. El paciente solicita orientación sobre dieta basada en plantas. IMC 22. Analítica normal. Se comentan suplementación de B12 y fuentes de proteína.",0
+"Ictus agudo con oclusión de gran vaso en territorio de la arteria cerebral media. ASPECTS 7. Dentro de ventana para trombectomía. Se activa equipo de neurorradiología intervencionista.",1
+"Consulta rutinaria para revisión de analítica. Función tiroidea normal. Hemograma dentro de rango. Perfil metabólico sin alteraciones. Continuar manejo actual.",0
+"Traumatismo craneoencefálico con Glasgow 5 tras accidente de tráfico. Pupilas bilaterales fijas y dilatadas. Gran hematoma epidural en TC. Neurocirugía realiza evacuación urgente.",1
+"Cribado oftalmológico anual del paciente diabético. Sin retinopatía de fondo. Agudeza visual estable. Presiones normales. Continuar optimización glucémica y revisar anualmente.",0
+"Embolia pulmonar en silla de montar masiva. Fallo de ventrículo derecho en ecocardiograma. Parada cardiaca en urgencias. ROSC tras 8 minutos de RCP. Se administra tPA durante la reanimación.",1
+"Reconocimiento deportivo de adolescente sano. Sin soplos ni rasgos de síndrome de Marfan. Antecedentes familiares negativos para muerte súbita. ECG normal. Apto sin restricciones.",0
+"Isquemia mesentérica aguda. Dolor abdominal intenso desproporcionado a la exploración. Lactato 8,2 y acidosis metabólica. La angio-TC muestra oclusión de la AMS. Quirófano urgente.",1
+"Radiografías dentales y revisión rutinaria. No hay nuevas caries. Las restauraciones previas están íntegras. Las mediciones periodontales son estables. Continuar revisiones de higiene habituales.",0
+"Rotura de aneurisma de aorta abdominal. El paciente presenta intenso dolor de espalda y episodio sincopal. PA 70/50, FC 130. La TC confirma AAA de 8 cm con hemorragia retroperitoneal.",1
+"Consulta de control de peso. IMC 27 y paciente motivado para adelgazar. Se comenta déficit calórico, plan de ejercicio y planificación de comidas. Revisar en un mes.",0
+"Síndrome de distrés respiratorio agudo. Relación PaO2/FiO2 de 85. Infiltrados bilaterales difusos. Se optimiza ventilación protectora pulmonar y se inicia posición prona.",1
+"El paciente acude para adaptación de lentes de contacto. La refracción permanece estable respecto a la última visita. Se entregan lentes de prueba. Revisar en una semana.",0
+"Tormenta tiroidea con fiebre de 40,5°C, FC 170 y alteración del estado mental. TSH indetectable y T4 libre muy elevada. Se inician PTU, metimazol, betabloqueo e hidrocortisona.",1
+"Reconocimiento físico integral anual de mujer de 60 años. Densitometría ósea normal. Mamografía programada. Colonoscopia al día. Analítica sin alteraciones.",0
+"Síndrome compartimental agudo de antebrazo derecho tras fractura. Dolor intenso con la extensión pasiva. Presiones compartimentales 45 mmHg. Requiere fasciotomía urgente.",1
+"Visita rutinaria de vacunación infantil. Lactante de 12 meses que recibe triple vírica y vacuna de la varicela. Crecimiento normal. Sin contraindicaciones. Vacunas administradas.",0
+"Eclampsia a las 34 semanas de gestación. Se presencia convulsión tónico-clónica. PA 190/120. Se administra dosis de carga de sulfato de magnesio. Se planifica cesárea urgente.",1
+"Chequeo anual de salud para directivo de 40 años. Prueba de esfuerzo normal. Ecocardiograma normal. Perfil hormonal normal. Se ofrece consejo sobre estilo de vida.",0
+"Hematoma epidural agudo con signos de herniación uncal. Pupila derecha fija y dilatada. Glasgow desciende de 13 a 7 en 30 minutos. Está indicada craneotomía urgente.",1
+"Valoración prequirúrgica para artroscopia de rodilla electiva. Riesgo cardiaco bajo. Analítica normal. ECG en ritmo sinusal. Apto para cirugía.",0
+"Megacolon tóxico en colitis ulcerosa. Distensión abdominal con colon de 8 cm en radiografía. Fiebre y taquicardia. Fracaso del manejo médico. Se planifica colectomía quirúrgica.",1
+"Revisión ginecológica anual de mujer de 30 años. Exploración mamaria normal. Se toma citología. Se revisan métodos anticonceptivos. Se comentan vitaminas prenatales de cara a futuro embarazo.",0
+"Taponamiento cardíaco. Presenta la tríada de Beck: hipotensión, ingurgitación yugular y tonos apagados. Pulso paradójico de 20 mmHg. Se realiza pericardiocentesis urgente guiada por ecografía.",1
+"Control rutinario de presión arterial. Las tomas en domicilio son consistentemente 120/75. Peso estable. El tratamiento antihipertensivo actual es eficaz. Mantener el mismo plan.",0
+"Crisis suprarrenal aguda. Hipotensión refractaria a fluidos. Hiponatremia e hiperpotasemia. Antecedente de enfermedad de Addison. Hidrocortisona IV 100 mg inmediata y cada 8 horas.",1
+"Limpieza dental semestral. Sin nuevas incidencias. Se elimina acúmulo leve de sarro. Higiene oral satisfactoria. Próxima cita en 6 meses.",0
+"Síndrome de embolia grasa tras fractura de hueso largo. Petequias, hipoxemia aguda y alteración del estado mental. Cuidados de soporte con ventilación mecánica en UCI.",1
+"Cribado visual rutinario en feria de salud escolar. Agudeza visual 20/20 bilateral. Visión cromática normal. No precisa derivación. Se entrega certificado de visión normal.",0
+"Hipertermia maligna durante anestesia general. Temperatura ascendente hasta 41°C. Rigidez muscular. Se administra dantroleno de inmediato. Se suspende la cirugía y se traslada a UCI.",1
+"Consulta de seguimiento por eccema leve. La lesión ha mejorado con emoliente tópico. Mantener la hidratación cutánea. Volver solo si empeora.",0
+"Fracaso hepático agudo por sobredosis de paracetamol. INR 6,2, amonio 250 y encefalopatía grado IV. Perfusión de N-acetilcisteína en curso. Evaluación urgente para trasplante.",1
+"Alta de fisioterapia rutinaria. El paciente alcanzó todos los objetivos funcionales. Es independiente con el programa de ejercicios en casa. No precisa más sesiones.",0
